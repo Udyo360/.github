@@ -3,7 +3,7 @@
   # Udyo360
   ### Automated Web Security Intelligence Platform
 
-  [![Website](https://img.shields.io/badge/Website-aneem.in-red?style=for-the-badge)](https://udyo360.com)
+  [![Website](https://img.shields.io/badge/Website-Udyo360.com-red?style=for-the-badge)](https://udyo360.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Udyo360-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/udyo360)
 
 </div>
@@ -34,6 +34,6 @@ Udyo360 scans your web applications for security vulnerabilities across **47+ ch
 
 ## Get Started
 
-🔍 [Run a free scan](https://aneem.in) — no account required
-📋 [View pricing](https://aneem.in/pricing)
-📧 Contact: hello@udyo360.com
+🔍 [Run a free scan](https://udyo360.com) — no account required
+📋 [View pricing](https://udyo360.com/pricing)
+📧 Contact: support@udyo360.com
