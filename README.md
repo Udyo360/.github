@@ -3,7 +3,7 @@
   # Udyo360
   ### Automated Web Security Intelligence Platform
 
-  [![Website](https://img.shields.io/badge/Website-aneem.in-red?style=for-the-badge)](https://aneem.in)
+  [![Website](https://img.shields.io/badge/Website-aneem.in-red?style=for-the-badge)](https://udyo360.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Udyo360-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/udyo360)
 
 </div>
